@@ -1,0 +1,28 @@
+/*
+	Created by: Paul Sesar
+	Created Date: 20150329
+
+	This is the main css file for the omdbapi-movie-info project
+*/
+
+#searchResults {
+	display: none;
+}
+
+.movieTitle {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#errorMessage {
+	color: red;
+	display: none;
+}
+
+.viewDetails {
+	color: blue;
+}
+
+.movieDetail {
+	padding-bottom: 10px;
+}
